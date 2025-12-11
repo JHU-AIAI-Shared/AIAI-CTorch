@@ -33,7 +33,7 @@
 
 
 ## Request Access
- Please read the LICENSE file. If you agree to the terms, email Prof. Web Stayman ([(web.stayman@jhu.edu)](web.stayman@jhu.edu)), cc'ing Xiao Jiang ([(xjiang43@jhu.edu)](xjiang43@jhu.edu)) with your GitHub username to request access.
+ Please read the LICENSE file. If you agree to the terms, email Prof. Web Stayman [(web.stayman@jhu.edu)](web.stayman@jhu.edu), cc'ing Xiao Jiang ([(xjiang43@jhu.edu)]xjiang43@jhu.edu) with your GitHub username to request access.
 
 ## Authors
 
