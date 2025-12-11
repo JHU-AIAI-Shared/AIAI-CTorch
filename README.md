@@ -16,7 +16,7 @@
 ## 😎 This is a PyTorch-compatible, GPU-accelerated, and auto-differentiable toolbox for Computed Tomography Imaging
    
 
-# [Features](#key-features) • [Supported Platform](#supported-platforms-and-cuda-versions) • [Request Access](#request-access) • [Examples](examples) • [Authors](#authors) • [References](#references)
+# [Features](#key-features) • [Supported Platform](#supported-platforms-and-cuda-versions) • [Request Access](#request-access) • [Example](#example) • [Authors](#authors) • [References](#references)
 
 ## Key Features
  - **Flexible Geometry Definition**: Supports 2D fan-beam, 3D circular cone-beam, and 3D non-circular cone-beam geometries. Additionally, each geometry allows view-specific definitions to handle variations during scanning.
@@ -35,7 +35,7 @@
 ## Request Access
  Please read the LICENSE file. If you agree to the terms, email Prof. Web Stayman [(web.stayman@jhu.edu)](web.stayman@jhu.edu), cc'ing Xiao Jiang ([(xjiang43@jhu.edu)]xjiang43@jhu.edu) with your GitHub username to request access.
 
-## Examples
+## Example
  Multiple examples with results are available in the examples folder to illustrate CTorch usage.
 
 ## Authors
