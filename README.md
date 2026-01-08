@@ -33,7 +33,7 @@
 
 
 ## Request Access
- Please read the LICENSE file. If you agree to the terms, email Prof. Web Stayman [(web.stayman@jhu.edu)](web.stayman@jhu.edu), cc'ing Xiao Jiang [(xjiang43@jhu.edu)](xjiang43@jhu.edu) with your GitHub username to request access.
+Please read the LICENSE file. If you agree to the terms, email Prof. Web Stayman [(web.stayman@jhu.edu)](web.stayman@jhu.edu), cc'ing Xiao Jiang [(xjiang43@jhu.edu)](xjiang43@jhu.edu), explicitly stating your agreement to the license and including your GitHub username to request access.
 
 ## Example
  Multiple examples with results are available in the `example` folder to illustrate CTorch usage.
@@ -63,5 +63,6 @@
    Jiang, X., Li, S., Teng, P., Gang, G., & Stayman, J. W. (2024). Strategies for CT Reconstruction using Diffusion Posterior Sampling with a Nonlinear Model. ArXiv, https://arxiv.org/abs/2407.12956.
 
    Li, S., Jiang, X., Tivnan, M., Gang, G. J., Shen, Y., & Stayman, J. W. (2024). CT reconstruction using diffusion posterior sampling conditioned on a nonlinear measurement model. Journal of Medical Imaging, 11(4), 043504-043504.
+
 
 
